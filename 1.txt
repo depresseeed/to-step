@@ -1,0 +1,2 @@
+hori data12.txt 5 4 4 4 0 5 4 4 4 0 5
+vert data22.txt 5 2 2 2 2 3 2 2 2 2 3
